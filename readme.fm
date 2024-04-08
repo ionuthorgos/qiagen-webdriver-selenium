@@ -1,0 +1,10 @@
+# Project Setup
+
+## Pre-installation Requirements:
+1. nodejs
+2. mocha
+3. webdriver-selenium (javascript)
+
+## Running the Project:
+1. npm install
+2. npm test

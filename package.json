@@ -1,0 +1,19 @@
+{
+  "name": "webdriver-selenium",
+  "version": "1.0.0",
+  "description": "Qiagen project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha index.js"
+  },
+  "author": "Ionut Horgos",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.19.0"
+  },
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0"
+  }
+}
